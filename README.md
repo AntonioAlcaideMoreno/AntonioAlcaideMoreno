@@ -1,4 +1,4 @@
-## Hi there, it's Antonio 👋
+<h1 align="center"> Hi there, it's Antonio 👋 </h1>
 
 **Cloud-enabled Digital Twin Engineer**, with strong background in **Mechanical Engineering (especially Fluid Mechanics, CFD and Heat Transfer)**. My main passion and expertise is in the fields of **modelling and simulation**, both using physics and data-based approaches.
 
@@ -8,13 +8,14 @@ I'm currently learning **AWS cloud architecture** for engineering applications, 
 
 I'm looking to collaborate on **cloud-native engineering applications**, **IoT data integration projects**, or **collaborative digital twin platforms** that combine physical modeling with real-time analytics.
 <br></br>
-<h2 align="left">Connect</h2>
+<h2 align="center">Know me better</h2>
 <p align="center">
 <a href="www.linkedin.com/in/antonio-alcaide-moreno" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="antonio-alcaide-moreno" height="60" width="80" /></a>
 <a href="https://github.com/AntonioAlcaideMoreno" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="AntonioAlcaideMoreno" height="60" width="80" /></a>
+<a href="https://orcid.org/0000-0002-7174-4184" target="blank"><img align="center" src="https://es.wikipedia.org/wiki/ORCID#/media/Archivo:ORCID_logo.svg" alt="Antonio Alcaide Moreno" height="60" width="80" /></a>
 </p>
 
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills</h2>
 <p align="center">
 <a href="https://www.python.org/about/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="60" width="80" /></a>
 <a href="https://git-scm.com/about/branching-and-merging" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="60" width="80" /></a>
