@@ -12,7 +12,7 @@ I'm looking to collaborate on **cloud-native engineering applications**, **IoT d
 <p align="center">
 <a href="www.linkedin.com/in/antonio-alcaide-moreno" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="antonio-alcaide-moreno" height="60" width="80" /></a>
 <a href="https://github.com/AntonioAlcaideMoreno" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="AntonioAlcaideMoreno" height="60" width="80" /></a>
-<a href="https://orcid.org/0000-0002-7174-4184" target="blank"><img align="center" src="https://github.com/LStepanek/orcid_logo/blob/main/orcid_logo.png" alt="Antonio Alcaide Moreno" height="60" width="80" /></a>
+<a href="https://orcid.org/0000-0002-7174-4184" target="blank"><img align="center" src="https://github.com/LStepanek/orcid_logo/blob/main/orcid_logo_white_background.png" alt="Antonio Alcaide Moreno" height="60" width="60" /></a>
 </p>
 
 <h2 align="center">Skills</h2>
