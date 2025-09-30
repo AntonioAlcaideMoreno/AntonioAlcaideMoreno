@@ -1,5 +1,5 @@
 ## Hi there, it's Antonio 👋
--------------------------------------------------------
+
 **Cloud-enabled Digital Twin Engineer**, with strong background in **Mechanical Engineering (especially Fluid Mechanics, CFD and Heat Transfer)**. My main passion and expertise is in the fields of **modelling and simulation**, both using physics and data-based approaches.
 
 I'm currently working on mastering my software engineering skills, focusing on data science and cloud deployment, since I strongly believe that industry's digital transformation should bring together a seamless integration of physical world models, data-informed models and robust information and tools ready for use all around the organization regardless the location.
@@ -13,7 +13,7 @@ I'm looking to collaborate on **cloud-native engineering applications**, **IoT d
 <a href="www.linkedin.com/in/antonio-alcaide-moreno" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="antonio-alcaide-moreno" height="30" width="40" /></a>
 <a href="https://github.com/AntonioAlcaideMoreno" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="AntonioAlcaideMoreno" height="30" width="40" /></a>
 </p>
-<hr>
+
 <h2 align="left">Skills</h2>
 <p align="center">
 <a href="https://www.python.org/about/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30" width="40" /></a>
