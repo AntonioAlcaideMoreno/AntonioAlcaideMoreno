@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, it's Antonio 👋
+-------------------------------------------------------
+**Cloud-enabled Digital Twin Engineer**, with strong background in **Mechanical Engineering (especially Fluid Mechanics, CFD and Heat Transfer)**. My main passion and expertise is in the fields of **modelling and simulation**, both using physics and data-based approaches.
 
-<!--
-**AntonioAlcaideMoreno/AntonioAlcaideMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on mastering my software engineering skills, focusing on data science and cloud deployment, since I strongly believe that industry's digital transformation should bring together a seamless integration of physical world models, data-informed models and robust information and tools ready for use all around the organization regardless the location.
 
-Here are some ideas to get you started:
+I'm currently learning **AWS cloud architecture** for engineering applications, **advanced Python data manipulation**, and exploring **MLOps fundamentals** to create scalable digital twin solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking to collaborate on **cloud-native engineering applications**, **IoT data integration projects**, or **collaborative digital twin platforms** that combine physical modeling with real-time analytics.
+<br></br>
+<h2 align="left">Connect</h2>
+<p align="center">
+<a href="www.linkedin.com/in/antonio-alcaide-moreno" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="antonio-alcaide-moreno" height="30" width="40" /></a>
+<a href="https://github.com/AntonioAlcaideMoreno" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="AntonioAlcaideMoreno" height="30" width="40" /></a>
+</p>
+<hr>
+<h2 align="left">Skills</h2>
+<p align="center">
+<a href="https://www.python.org/about/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30" width="40" /></a>
+<a href="https://git-scm.com/about/branching-and-merging" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="30" width="40" /></a>
+<a href="https://www.anaconda.com/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="30" width="40" /></a>
+<a href="https://numpy.org/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" height="30" width="40" /></a>
+<a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" height="30" width="40" /></a>
+<a href="https://scikit-learn.org/stable/index.html" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" height="30" width="40" /></a>
+<a target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="30" width="40" /></a>
+<a href="https://www.ansys.com/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/ansys/ansys-original.svg" alt="Ansys" height="30" width="40" /></a>
+<a href="https://es.mathworks.com/products/matlab.html" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab" height="30" width="40" /></a>
+<a href="https://www.autodesk.com/es/products/autocad/overview" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/autocad.svg" alt="AutoCad" height="30" width="40" /></a>
+<a href="https://www.solidworks.com/es" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/dassaultsystemes.svg" alt="SolidWorks" height="30" width="40" /></a>
+</p>
+
